@@ -1,5 +1,2 @@
-'''
-Created on 2016年8月12日
-
-@author: msi
-'''
+print('Hello World!')
+print(len('Hello Wold!'))
